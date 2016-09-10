@@ -43,3 +43,8 @@ xxx  TODO
 yyx，vuejs作者
 阮一峰
 微信公众号 caoz的梦呓
+
+
+f1
+F2
+fixR1
