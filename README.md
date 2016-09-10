@@ -47,3 +47,4 @@ yyx，vuejs作者
 
 f1
 F2
+fixR1
